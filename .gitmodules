@@ -38,3 +38,8 @@
 	url = https://github.com/r-lib/commonmark
 	shallow = true
 	registered = true
+[submodule "psych"]
+	path = psych
+	url = https://github.com/cran/psych
+	shallow = true
+	registered = true

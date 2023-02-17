@@ -25,5 +25,9 @@
   {
     "package": "commonmark",
     "oncran": true
+  },
+  {
+    "package": "psych",
+    "oncran": false
   }
 ]
