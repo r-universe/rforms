@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rforms/universe
 	shallow = true
 	branch = HEAD
+[submodule "formr"]
+	path = formr
+	url = https://github.com/rubenarslan/formr
+	shallow = true
+	registered = true
+[submodule "rmdpartials"]
+	path = rmdpartials
+	url = https://github.com/rubenarslan/rmdpartials
+	shallow = true
+	registered = true
+[submodule "codebook"]
+	path = codebook
+	url = https://github.com/rubenarslan/codebook
+	shallow = true
+	registered = true
+[submodule "tidyverse"]
+	path = tidyverse
+	url = https://github.com/tidyverse/tidyverse
+	shallow = true
+	registered = true

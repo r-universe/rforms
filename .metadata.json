@@ -1,0 +1,17 @@
+[
+  {
+    "package": "formr"
+  },
+  {
+    "package": "rmdpartials",
+    "oncran": true
+  },
+  {
+    "package": "codebook",
+    "oncran": true
+  },
+  {
+    "package": "tidyverse",
+    "oncran": true
+  }
+]
