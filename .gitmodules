@@ -23,3 +23,18 @@
 	url = https://github.com/tidyverse/tidyverse
 	shallow = true
 	registered = true
+[submodule "sodium"]
+	path = sodium
+	url = https://github.com/r-lib/sodium
+	shallow = true
+	registered = true
+[submodule "keyring"]
+	path = keyring
+	url = https://github.com/r-lib/keyring
+	shallow = true
+	registered = true
+[submodule "commonmark"]
+	path = commonmark
+	url = https://github.com/r-lib/commonmark
+	shallow = true
+	registered = true

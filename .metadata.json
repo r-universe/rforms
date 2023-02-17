@@ -13,5 +13,17 @@
   {
     "package": "tidyverse",
     "oncran": true
+  },
+  {
+    "package": "sodium",
+    "oncran": true
+  },
+  {
+    "package": "keyring",
+    "oncran": true
+  },
+  {
+    "package": "commonmark",
+    "oncran": true
   }
 ]
