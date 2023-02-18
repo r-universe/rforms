@@ -45,12 +45,12 @@
 	registered = true
 [submodule "StanHeaders"]
 	path = StanHeaders
-	url = https://github.com/stan-dev/rstan/tree/develop/StanHeaders
+	url = https://github.com/cran/StanHeaders
 	shallow = true
 	registered = true
 [submodule "rstan"]
 	path = rstan
-	url = https://github.com/stan-dev/rstan/tree/develop/rstan/rstan
+	url = https://github.com/cran/rstan
 	shallow = true
 	registered = true
 [submodule "cmdstanr"]
