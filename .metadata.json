@@ -29,5 +29,16 @@
   {
     "package": "psych",
     "oncran": false
+  },
+  {
+    "package": "StanHeaders",
+    "oncran": false
+  },
+  {
+    "package": "rstan",
+    "oncran": false
+  },
+  {
+    "package": "cmdstanr"
   }
 ]

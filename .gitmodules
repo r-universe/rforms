@@ -43,3 +43,18 @@
 	url = https://github.com/cran/psych
 	shallow = true
 	registered = true
+[submodule "StanHeaders"]
+	path = StanHeaders
+	url = https://github.com/stan-dev/rstan/tree/develop/StanHeaders
+	shallow = true
+	registered = true
+[submodule "rstan"]
+	path = rstan
+	url = https://github.com/stan-dev/rstan/tree/develop/rstan/rstan
+	shallow = true
+	registered = true
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	shallow = true
+	registered = true
