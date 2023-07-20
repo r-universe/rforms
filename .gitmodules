@@ -1,60 +1,37 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/rforms/universe
-	shallow = true
 	branch = HEAD
 [submodule "formr"]
 	path = formr
 	url = https://github.com/rubenarslan/formr
-	shallow = true
-	registered = true
 [submodule "rmdpartials"]
 	path = rmdpartials
 	url = https://github.com/rubenarslan/rmdpartials
-	shallow = true
-	registered = true
 [submodule "codebook"]
 	path = codebook
 	url = https://github.com/rubenarslan/codebook
-	shallow = true
-	registered = true
 [submodule "tidyverse"]
 	path = tidyverse
 	url = https://github.com/tidyverse/tidyverse
-	shallow = true
-	registered = true
 [submodule "sodium"]
 	path = sodium
 	url = https://github.com/r-lib/sodium
-	shallow = true
-	registered = true
 [submodule "keyring"]
 	path = keyring
 	url = https://github.com/r-lib/keyring
-	shallow = true
-	registered = true
 [submodule "commonmark"]
 	path = commonmark
 	url = https://github.com/r-lib/commonmark
-	shallow = true
-	registered = true
 [submodule "psych"]
 	path = psych
 	url = https://github.com/cran/psych
-	shallow = true
-	registered = true
 [submodule "StanHeaders"]
 	path = StanHeaders
 	url = https://github.com/cran/StanHeaders
-	shallow = true
-	registered = true
 [submodule "rstan"]
 	path = rstan
 	url = https://github.com/cran/rstan
-	shallow = true
-	registered = true
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-	shallow = true
-	registered = true
