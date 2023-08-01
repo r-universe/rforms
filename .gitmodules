@@ -2,36 +2,36 @@
 	path = .registry
 	url = https://github.com/rforms/universe
 	branch = HEAD
-[submodule "formr"]
-	path = formr
-	url = https://github.com/rubenarslan/formr
-[submodule "rmdpartials"]
-	path = rmdpartials
-	url = https://github.com/rubenarslan/rmdpartials
-[submodule "codebook"]
-	path = codebook
-	url = https://github.com/rubenarslan/codebook
-[submodule "tidyverse"]
-	path = tidyverse
-	url = https://github.com/tidyverse/tidyverse
-[submodule "sodium"]
-	path = sodium
-	url = https://github.com/r-lib/sodium
-[submodule "keyring"]
-	path = keyring
-	url = https://github.com/r-lib/keyring
-[submodule "commonmark"]
-	path = commonmark
-	url = https://github.com/r-lib/commonmark
-[submodule "psych"]
-	path = psych
-	url = https://github.com/cran/psych
 [submodule "StanHeaders"]
 	path = StanHeaders
 	url = https://github.com/cran/StanHeaders
-[submodule "rstan"]
-	path = rstan
-	url = https://github.com/cran/rstan
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
+[submodule "codebook"]
+	path = codebook
+	url = https://github.com/rubenarslan/codebook
+[submodule "commonmark"]
+	path = commonmark
+	url = https://github.com/r-lib/commonmark
+[submodule "formr"]
+	path = formr
+	url = https://github.com/rubenarslan/formr
+[submodule "keyring"]
+	path = keyring
+	url = https://github.com/r-lib/keyring
+[submodule "psych"]
+	path = psych
+	url = https://github.com/cran/psych
+[submodule "rmdpartials"]
+	path = rmdpartials
+	url = https://github.com/rubenarslan/rmdpartials
+[submodule "rstan"]
+	path = rstan
+	url = https://github.com/cran/rstan
+[submodule "sodium"]
+	path = sodium
+	url = https://github.com/r-lib/sodium
+[submodule "tidyverse"]
+	path = tidyverse
+	url = https://github.com/tidyverse/tidyverse
