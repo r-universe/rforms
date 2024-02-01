@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rforms/universe
+	url = https://github.com/rforms/rforms.r-universe.dev
 	branch = HEAD
 [submodule "StanHeaders"]
 	path = StanHeaders
