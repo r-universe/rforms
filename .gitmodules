@@ -23,6 +23,9 @@
 [submodule "psych"]
 	path = psych
 	url = https://github.com/cran/psych
+[submodule "rcamisc"]
+	path = rcamisc
+	url = https://github.com/rubenarslan/rcamisc
 [submodule "rmdpartials"]
 	path = rmdpartials
 	url = https://github.com/rubenarslan/rmdpartials
