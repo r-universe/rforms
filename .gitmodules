@@ -26,10 +26,6 @@
 [submodule "rcamisc"]
 	path = rcamisc
 	url = https://github.com/rubenarslan/rcamisc
-[submodule "renv"]
-	path = renv
-	url = https://github.com/rstudio/renv
-	registered = false
 [submodule "rmdpartials"]
 	path = rmdpartials
 	url = https://github.com/rubenarslan/rmdpartials

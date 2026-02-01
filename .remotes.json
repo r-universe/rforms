@@ -1,8 +1,0 @@
-[
-  {
-    "package": "renv",
-    "url": "https://github.com/rstudio/renv",
-    "via": ["rcamisc"],
-    "from": "rcamisc"
-  }
-]
